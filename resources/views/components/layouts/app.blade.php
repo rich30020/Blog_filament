@@ -25,6 +25,8 @@
     <!-- # Main Style Sheet -->
     <link rel="stylesheet" href="{{asset('/front/css/style.css') }}">
     @livewireStyles
+
+    <!--[if lt IE 9]>
 </head>
 
 <body>
